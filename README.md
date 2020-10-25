@@ -37,8 +37,9 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
+  
+   [![braddevans's github stats](https://github-readme-stats.vercel.app/api?username=braddevans)](https://github.com/braddevans)
 
-  <img align="left" alt="braddevans's GitHub Stats" src="https://github-readme-stats.braddevans.vercel.app/api?username=braddevans&show_icons=true&hide_border=true" />
 
 </details>
 
