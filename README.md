@@ -6,7 +6,7 @@
 ## I'm a Student Developer!!
 
 - 🌱 I’m currently learning everything 🤣 and getting better at java
-- 👯 I’m looking to collaborate on othet projects
+- 👯 I’m looking to collaborate on other projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
