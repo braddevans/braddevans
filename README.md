@@ -38,7 +38,9 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
   
-   [![braddevans's github stats](https://github-readme-stats.vercel.app/api?username=braddevans)](https://github.com/braddevans)
+   [![braddevans's github stats](https://github-readme-stats.vercel.app/api?username=braddevans&count_private=true&)](https://github.com/braddevans)
+   
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braddevans)](https://github.com/braddevans)
 
 
 </details>
