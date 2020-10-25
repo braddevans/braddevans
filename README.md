@@ -44,6 +44,6 @@
 </details>
 
 [website]: https://breadhub.co.uk
-[twitter]: https://twitter.com/__slicedbread_
+[twitter]: https://twitter.com/___slicedbread_
 [youtube]: https://youtube.com/braddevans
 [linkedin]: https://linkedin.com/in/braddevans
