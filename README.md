@@ -1,6 +1,6 @@
 ### Hi there, I'm bradd - aka [slicedbread][website] 👋
 
-[![Website](https://img.shields.io/website?label=breadhub.co.uk&style=for-the-badge&url=https%3A%2F%2Fbreadhub.co.uk)](https://breadhub.co.uk)
+[![Website](https://img.shields.io/badge/website-breadhub.co.uk-blue?style=for-the-badge)](https://breadhub.co.uk)
 [![Twitter Follow](https://img.shields.io/twitter/follow/_slicedbread__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbraddevans&screen_name=braddevans)
 
 ## I'm a Student Developer!!
