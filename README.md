@@ -1,18 +1,15 @@
 ### Hi there, I'm bradd - aka [slicedbread][website] 👋
 
 [![Website](https://img.shields.io/badge/website-breadhub.co.uk-blue?style=for-the-badge)](https://breadhub.co.uk)
-[![Twitter Follow](https://img.shields.io/twitter/follow/_slicedbread__?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbraddevans&screen_name=braddevans)
 
-## I'm a Student Developer!!
+## I'm a Developer!!
 
-- 🌱 I’m currently learning everything 🤣 and getting better at java
 - 👯 I’m looking to collaborate on other projects
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
 [<img align="left" alt="breadhub.co.uk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="braddevans | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="braddevans | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
@@ -40,6 +37,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=braddevans)](https://github.com/braddevans)
 
 [website]: https://breadhub.co.uk
-[twitter]: https://twitter.com/_slicedbread__
 [youtube]: https://youtube.com/braddevans
 [linkedin]: https://linkedin.com/in/braddevans
