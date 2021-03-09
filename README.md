@@ -2,7 +2,16 @@
 
 [![Website](https://img.shields.io/badge/website-breadhub.co.uk-blue?style=for-the-badge)](https://breadhub.co.uk)
 
-## Full stack developer since 2016; HTML, CSS, JAVA, MySQL/PostgreSQL, MongoDB, PYTHON 3
+## Full stack developer since 2016
+ - HTML 
+ - CSS 
+ - JAVA 
+ - MySQL
+ - PostgreSQL 
+ - MongoDB 
+ - PYTHON
+ - javascript
+ - node.js
 
 ### Connect with me:
 
