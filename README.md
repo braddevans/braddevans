@@ -1,11 +1,11 @@
 ## Full stack developer since 2016
  - HTML 
  - CSS 
- - JAVA 
- - MySQL
+ - JAVA [7 & 8]
+ - MySQL [mariadb]
  - PostgreSQL 
  - MongoDB 
- - PYTHON
+ - PYTHON [3]
  - javascript
  - node.js
 
