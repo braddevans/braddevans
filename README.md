@@ -2,10 +2,7 @@
 
 [![Website](https://img.shields.io/badge/website-breadhub.co.uk-blue?style=for-the-badge)](https://breadhub.co.uk)
 
-## I'm a Developer!!
-
-- 👯 I’m looking to collaborate on other projects
-- 🥅 2020 Goals: Contribute more to Open Source projects
+## Full stack developer since 2016; HTML, CSS, JAVA, MySQL/PostgreSQL, MongoDB
 
 ### Connect with me:
 
