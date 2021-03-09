@@ -1,7 +1,3 @@
-### Hi there, I'm bradd - aka [slicedbread][website] 👋
-
-[![Website](https://img.shields.io/badge/website-breadhub.co.uk-blue?style=for-the-badge)](https://breadhub.co.uk)
-
 ## Full stack developer since 2016
  - HTML 
  - CSS 
@@ -17,7 +13,9 @@
 
 [<img align="left" alt="breadhub.co.uk" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="braddevans | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[website] 👋
 
+[![Website](https://img.shields.io/badge/website-breadhub.co.uk-blue?style=for-the-badge)](https://breadhub.co.uk)
 <br />
 
 ### Languages and Tools:
